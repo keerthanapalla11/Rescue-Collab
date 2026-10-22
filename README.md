@@ -162,18 +162,5 @@ Once the servers are running, open your browser and navigate to `http://localhos
 - Communication and collaboration tools for agencies.
 - Security and privacy measures to protect sensitive information.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-For more information, please contact:
-
-- **Email:** [yakshineanannya@gmail.com]
-- **LinkedIn:** [YakshineAnannya](https://www.linkedin.com/in/yakshineanannya/)
-
----
-
-Developed by Team Innov8ors.
 
